@@ -23,17 +23,19 @@ My aggressive growth strategy to master Cloud Native Development.
 - [x] **Phase 1: The Basement** (Python, Linux Mastery, Git/GitHub) ✅
 - [ ] **Phase 2: The Data Layer** (Relational Databases & SQL) 🔄 *[Current Focus]*
 - [ ] **Phase 3: The Builder** (FastAPI + Docker Containerization)
-- [ ] **Phase 3.5: The Bridge** (Foundational C# for Enterprise)
-- [ ] **Phase 4: The Cloud Soldier** (AZ-204 Azure Developer Cert)
+- [ ] **Phase 4: The Bridge** (Foundational C# for Enterprise)
+- [ ] **Phase 5: The Infrastructure** (AZ-104 Azure Admin Skills)
+- [ ] **Phase 6: The Developer** (AZ-204 Azure Developer Cert)
+- [ ] **Phase 7: The General** (AZ-400 DevOps Engineer)
 
 ---
 
 ### 📈 GitHub Stats
-![Super's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swbanga&show_icons=true&theme=radical)
+[![Super's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swbanga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 📬 Uplink
 * 📍 **Base:** Harare, Zimbabwe
 * 💼 **Focus:** Backend Engineering, Cloud Systems, DevSecOps
-* 📧 **Contact:** [Your Email Here - Optional]
+* 📧 **Contact:** superwbanga@gmail.com

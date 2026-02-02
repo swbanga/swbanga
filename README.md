@@ -31,7 +31,11 @@ My aggressive growth strategy to master Cloud Native Development.
 ---
 
 ### 📈 GitHub Stats
-[![Super's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swbanga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swbanga&show_icons=true&theme=radical&hide_border=true" height="180" alt="Super's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swbanga&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Super's Top Languages" />
+</div>
+
 
 ---
 

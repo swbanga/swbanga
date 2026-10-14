@@ -2,6 +2,12 @@
 
 Computer Science Student | Cloud Engineering | DevSecOps Engineering | AI Engineering
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-swbanga.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swbanga.com)
+
+</div>
+
 I am a Computer Science student at the University of Zimbabwe with a primary focus on cloud-native systems, backend engineering, DevSecOps, distributed systems, and AI-enabled applications.
 
 My interests lie in designing resilient platforms that combine strong software engineering fundamentals with modern cloud infrastructure, automation, and intelligent systems. I enjoy building solutions that emphasize security, scalability, observability, and operational excellence from day one.
